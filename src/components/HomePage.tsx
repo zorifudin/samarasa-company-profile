@@ -52,7 +52,7 @@ const HomePage = () => {
 
               <div className="relative overflow-hidden rounded-2xl border border-gray-800 bg-gray-900/30 backdrop-blur-sm">
                 <img
-                  src="/look-restaurant.jpg"
+                  src="/look-restaurant.webp"
                   alt="coffee shop interior"
                   className="h-auto w-full transform rounded-2xl transition-transform duration-500 hover:scale-105"
                 />
