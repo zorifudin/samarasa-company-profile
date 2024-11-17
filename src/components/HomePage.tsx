@@ -8,7 +8,7 @@ const HomePage = () => {
       </div>
 
       <main className="relative z-10 flex items-center">
-        <div className="mx-auto mt-12 max-w-7xl px-4 py-20">
+        <div className="mx-auto mt-12 max-w-7xl px-4 sm:py-12 lg:py-20">
           <div className="grid items-center gap-12 md:grid-cols-2">
             <div className="mt-12 space-y-8">
               <h1 className="text-4xl font-bold text-white md:text-7xl">
