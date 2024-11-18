@@ -1,6 +1,5 @@
-// app/contact/page.tsx
-import { Metadata } from "next";
 import ContactForm from "@/components/Contact";
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Contact Us",

@@ -1,6 +1,3 @@
-import Link from "next/link";
-import React from "react";
-
 const About = () => {
   return (
     <section className="relative min-h-screen bg-gray-900 bg-blend-color-burn">
