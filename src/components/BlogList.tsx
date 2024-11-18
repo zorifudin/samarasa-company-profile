@@ -8,7 +8,7 @@ interface BlogListProps {
 
 const BlogList: FC<BlogListProps> = ({ websites }) => {
   return (
-    <section className="container mx-auto min-h-screen bg-gray-900 px-4 bg-blend-color-burn">
+    <section className="relative mx-auto min-h-screen bg-gray-900 px-4 bg-blend-color-burn">
       <div className="bg-center0 absolute bg-cover">
         <div className="absolute inset-0 bg-black/60 bg-gradient-to-b"></div>
       </div>
